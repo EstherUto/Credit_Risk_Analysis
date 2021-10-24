@@ -2,6 +2,13 @@
 
 ## Table of Contents
 
+- [Overview of Analysis](#overview-of-analysis)
+- [Results](#results)
+  * [Oversampling Algorithms](#oversampling-algorithms)
+  * [Undersampling Algorithms](#undersampling-algorithms)
+  * [Combined Sampling Algorithm](#combined-sampling-algorithm)
+  * [Ensemble Learners](#ensemble-learners)
+- [Summary](#summary)
 
 ## Overview of Analysis
 
